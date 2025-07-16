@@ -1,4 +1,4 @@
-## **Hi there. I'm Rafael Ruiz** 👋
+## Hi there, I'm Rafael Ruiz 👋
 
 ## **About Me**
 - 
