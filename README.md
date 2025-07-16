@@ -1,6 +1,13 @@
-## Hi there 👋
+## **Hi there. I'm Rafael Ruiz** 👋
+
+## **About Me**
+- 
+
+## **Technologies:**
+- 
 
 <!--
+# **Welcome, I'm Rafael Ruiz**
 **rafaruiz23/rafaruiz23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
