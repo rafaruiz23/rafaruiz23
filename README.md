@@ -2,9 +2,11 @@
 
 ## **About Me**
 - 
-
+🚧 Under construction!! 🚧
 ## **Technologies:**
-- 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50px" width="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="50px" width="50px"/> 
+          
+                    
 
 <!--
 # **Welcome, I'm Rafael Ruiz**
